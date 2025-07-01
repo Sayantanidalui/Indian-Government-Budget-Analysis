@@ -1,4 +1,4 @@
-# Indian Government Budget Analysis (FY 2021-24)
+# Indian Government Budget Analysis 
 
 A data analysis project exploring trends in the Indian Union Budget using **Python, MySQL, and Power BI**. The focus is to uncover how budget allocations evolved across ministries and key schemes from FY 2021-22 to 2023-24.
 
