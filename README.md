@@ -2,13 +2,14 @@
 
 A data analysis project exploring trends in the Indian Union Budget using **Python, MySQL, and Power BI**. The focus is to uncover how budget allocations evolved across ministries and key schemes from FY 2021-22 to 2023-24.
 
+---
 ## 🛠 Tools & Technologies Used
 
 - Kaggle Dataset
 - **Python (Pandas)** – Data cleaning & preprocessing  
 - **MySQL** – Data querying & analysis  
 - **Power BI** – Dashboard creation & storytelling  
-
+---
 ## 📊 Sql findings & Key Insights
 
 1. **Total Budget (FY 2023-24):** ₹10.85 Lakh Cr  
@@ -23,14 +24,14 @@ A data analysis project exploring trends in the Indian Union Budget using **Pyth
 7. **Average Allocation per Scheme:** Food Subsidy: ₹1.87L Cr, Urea: ₹1.29L Cr  
 8. **Health & Education Allocation:** Health – ₹9386 Cr | Education – ₹7755 Cr  
 
-
+---
 ## 📘 Storytelling
 
 The FY 2023-24 budget saw a slight dip of **0.44%** from the previous year, yet major allocations remained focused on **food security, agriculture, and infrastructure**—with top spending on **Food Subsidy, Urea Subsidy, and Road Works**.
 
 **Textiles*** and **MSME** ministries led in scheme count, showing focus on employment and industry. Though lower in amount, **health** (₹9386 Cr) and **education** (₹7755 Cr) retained importance in social welfare.
 
-
+---
 ## 📈 Power BI Dashboard
 
 ![Screenshot (243)](https://github.com/user-attachments/assets/42d23dc5-f1d5-40b1-9a86-db1b70f70e96)
@@ -40,7 +41,7 @@ The FY 2023-24 budget saw a slight dip of **0.44%** from the previous year, yet 
 
 
 
-
+---
 ## ⚠ Disclaimer
 
 This project is created solely for **practice and learning purposes**. The data is sourced from Kaggle and **does not reflect the actual Indian government budget**. All figures and schemes are simulated for educational analysis only.
