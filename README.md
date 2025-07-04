@@ -46,7 +46,7 @@ The FY 2023-24 budget saw a slight dip of **0.44%** from the previous year, yet 
 
 This project is created solely for **practice and learning purposes**. The data is sourced from Kaggle and **does not reflect the actual Indian government budget**. All figures and schemes are simulated for educational analysis only.
 
-
+---
 ## ✅ Conclusion
 
 This project sharpened my skills in **data cleaning**, **SQL querying**, and **Power BI visualization**, while helping me understand budget analysis in a real-world scenario.
