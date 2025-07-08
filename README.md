@@ -34,7 +34,8 @@ The FY 2023-24 budget saw a slight dip of **0.44%** from the previous year, yet 
 ---
 ## 📈 Power BI Dashboard
 
-![Screenshot (243)](https://github.com/user-attachments/assets/42d23dc5-f1d5-40b1-9a86-db1b70f70e96)
+![{4C3263A8-BCF4-4F6A-B6C9-D9C7138DF5D3}](https://github.com/user-attachments/assets/c87e8c34-6365-4dc2-a107-c3267765e923)
+
 
 
 
